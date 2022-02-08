@@ -1,4 +1,4 @@
 - Hi, I’m @Ala-R-F
-- I’m currently learning Python and HTML
+- I’m currently learning Python and PHP
 - This is an account for school
-- Thank you for visiting
+- Thank you for visiting!
