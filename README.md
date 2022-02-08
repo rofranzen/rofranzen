@@ -1,0 +1,4 @@
+- Hi, I’m @Ala-R-F
+- I’m currently learning Python and HTML
+- This is an account for school
+- Thank you for visiting
