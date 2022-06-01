@@ -29,9 +29,5 @@
 </div>
 
 ## Aprendendo
-
-<img height=45 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> Python
-<img height=45 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> HTML
-<img height=50 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> PHP
-<img height=50 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> C++
-<img height=45 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> PostgreSQL
+  
+ [![My Skills](https://skillicons.dev/icons?i=py,html,css,php,c,cpp,java)](https://skillicons.dev)
