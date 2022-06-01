@@ -30,4 +30,4 @@
 
 ## Aprendendo
   
- [![My Skills](https://skillicons.dev/icons?i=py,html,css,php,c,cpp,java)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=py,html,css,php,c,cpp,java,postgres)](https://skillicons.dev)
