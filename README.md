@@ -35,3 +35,7 @@
 ## Aprendendo
   
  [![My Skills](https://skillicons.dev/icons?i=py,html,css,php,c,cpp,java,postgres)](https://skillicons.dev)
+ 
+ </br>
+ 
+ ![Contribution](https://activity-graph.herokuapp.com/graph?username=ala-r-f&theme=react-dark&hide_border=true&area=true)
