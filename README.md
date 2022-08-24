@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/alana-rodrigues-franzen-b23959238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
   <a href="mailto:alana.franzen@aluno.cefet-rj.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://moon-svg.minung.dev">
-    <img src="https://moon-svg.minung.dev/moon.svg?size=30&theme=ray" alt="moon.svg" />
+    <img src="https://moon-svg.minung.dev/moon.svg?size=30&theme=basic" alt="moon.svg" />
   </a>
 </div>
 
@@ -39,3 +39,7 @@
  </br>
  
  ![Contribution](https://activity-graph.herokuapp.com/graph?username=ala-r-f&theme=react-dark&hide_border=true&area=true)
+ 
+ </br>
+ 
+ ![Contribution2](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ala-r-f&theme=2077)
