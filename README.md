@@ -38,7 +38,7 @@
  
  </br>
  
- ![Contribution](https://activity-graph.herokuapp.com/graph?username=ala-r-f&theme=react-dark&hide_border=true&area=true)
+ ![Contribution](https://activity-graph.herokuapp.com/graph?username=ala-r-f&theme=react-dark&custom_title=My%20(awesome)%20commits&hide_border=true&area=true)
  
  </br>
  
