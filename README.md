@@ -34,7 +34,7 @@
 
 ## Aprendendo
   
- [![My Skills](https://skillicons.dev/icons?i=py,html,css,php,c,cpp,java,postgres)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=py,html,css,php,c,cpp,java,js,postgres)](https://skillicons.dev)
  
  </br>
  
