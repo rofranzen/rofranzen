@@ -38,8 +38,8 @@
  
  </br>
  
- ![Contribution](https://activity-graph.herokuapp.com/graph?username=ala-r-f&theme=react-dark&custom_title=My%20(awesome)%20commits&hide_border=true&area=true)
- 
+ ![Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=ala-r-f&theme=react-dark&custom_title=My%20(awesome)%20commits&hide_border=true&area=true)
+
  </br>
  
  ![Contribution2](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ala-r-f&theme=2077)
