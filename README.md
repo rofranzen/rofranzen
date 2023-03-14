@@ -2,7 +2,8 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ala-r-f.ala-r-f)](https://github.com/ala-r-f) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/ala-r-f)
 ## Bem-vindo, eu sou a Alana!
 <ul>
-  <li>Estudante de Informática no CEFET/RJ.
+  <li>Formação técnica em Informática no CEFET/RJ.
+  <li>Estudante de Engenharia de Computação na USP de São Carlos.
   <li>Fluente em Portugues e Inglês.
   <li>Respondo qualquer pergunta sobre o código!
 </ul>
@@ -10,7 +11,8 @@
 ## Welcome, I'm Alana!
 
 <ul>
-  <li>IT student at CEFET/RJ.
+  <li>Technical degree in IT at CEFET/RJ.
+  <li>Computer Engineering student at USP São Carlos.
   <li>Fluent in Portuguese and English.
   <li>I answer any questions about my code!
 </ul>
