@@ -2,8 +2,8 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ala-r-f.ala-r-f)](https://github.com/ala-r-f) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/ala-r-f)
 ## Bem-vindo, eu sou a Alana!
 <ul>
-  <li>Formação técnica em Informática no CEFET/RJ.
   <li>Estudante de Engenharia de Computação na USP de São Carlos.
+  <li>Formação técnica em Informática no CEFET/RJ.
   <li>Fluente em Portugues e Inglês.
   <li>Respondo qualquer pergunta sobre o código!
 </ul>
@@ -11,8 +11,8 @@
 ## Welcome, I'm Alana!
 
 <ul>
-  <li>Technical degree in IT at CEFET/RJ.
   <li>Computer Engineering student at USP São Carlos.
+  <li>Technical degree in IT at CEFET/RJ.
   <li>Fluent in Portuguese and English.
   <li>I answer any questions about my code!
 </ul>
@@ -24,7 +24,7 @@
   <a href="https://moon-svg.minung.dev">
     <img src="https://moon-svg.minung.dev/moon.svg?size=30&theme=basic" alt="moon.svg" />
   </a>
-</div>
+</div> 
 
 
 ## GitHub Stats
@@ -33,7 +33,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ala-R-F&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=DEG,1a1b27,443754"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ala-R-F&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
-
+  
 ## Aprendendo
   
  [![My Skills](https://skillicons.dev/icons?i=py,html,css,php,c,cpp,java,js,postgres)](https://skillicons.dev)
