@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;Olá+Mundo!&size=15&color=158fad&duration=4500&font=consolas)](https://git.io/typing-svg) <br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;Olá+Mundo!;Bonjour+Monde!;&size=15&color=158fad&duration=4500&font=consolas)](https://git.io/typing-svg) <br>
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ala-r-f.ala-r-f)](https://github.com/ala-r-f) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/ala-r-f)
 ## Bem-vindo!
 <ul>
