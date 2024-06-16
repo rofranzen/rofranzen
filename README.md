@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;Olá+Mundo!;Bonjour+Monde!;&size=15&color=158fad&duration=4500&font=consolas)](https://git.io/typing-svg) <br>
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ala-r-f.ala-r-f)](https://github.com/ala-r-f) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/ala-r-f)
-## Bem-vindo!
+## Bem-vindo, sou o Lucien!
 <ul>
   <li>Estudante de Engenharia de Computação na USP de São Carlos.
   <li>Formação técnica em Informática no CEFET/RJ.
@@ -28,8 +28,9 @@
 
 ### Contatos
 <div>
-  <a href="https://www.linkedin.com/in/alana-rodrigues-franzen-b23959238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
-  <a href="mailto:alana.franzen@aluno.cefet-rj.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a href="https://br.linkedin.com/in/lucien-rodrigues-franzen-b23959238" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+  <a href="mailto:lucien_franzen@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a href="mailto:rodrigues_franzen@usp.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://moon-svg.minung.dev">
     <img src="https://moon-svg.minung.dev/moon.svg?size=30&theme=basic" alt="moon.svg" />
   </a>
