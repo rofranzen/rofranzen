@@ -1,33 +1,31 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;Olá+Mundo!;Bonjour+Monde!;&size=15&color=158fad&duration=4500&font=consolas)](https://git.io/typing-svg) <br>
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=rofranzen.rofranzen)](https://github.com/rofranzen) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/rofranzen)
 ## Bem-vindo, sou o Lucien!
-<ul>
-  <li>Estudante de Engenharia de Computação na USP de São Carlos.
-  <li>Membro do [Fellowship of the Game](https://github.com/fellowshipofthegame) da USP-SC
-  <li>Formação técnica em Informática no CEFET/RJ.
-  <li>Fluente em Portugues e Inglês. Francês básico. 
-  <li>Respondo qualquer pergunta sobre o código!
-</ul>
+
+- 🎓 Estudante de Engenharia de Computação na USP São Carlos  
+- 🎮 Membro da [Fellowship of the Game](https://github.com/fellowshipofthegame), grupo de desenvolvimento de jogos da USP-SC  
+- 💻 Formação técnica em Informática pelo CEFET/RJ  
+- 🌍 Fluente em Português e Inglês. Francês em nível básico.
+- 💬 Pode perguntar qualquer coisa sobre o código — estou aqui pra ajudar!
+
 
 ## Welcome!
 
-<ul>
-  <li>Computer Engineering student at USP São Carlos.
-  <li>[Fellowship of the Game](https://github.com/fellowshipofthegame) member
-  <li>Technical degree in IT at CEFET/RJ.
-  <li>Fluent in Portuguese and English. Basic at French.
-  <li>I answer any questions about my code!
-</ul>
+- 🎓 Computer Engineering student at USP São Carlos.
+- 🎮 Member of the [Fellowship of the Game](https://github.com/fellowshipofthegame), the game development group of USP-SC
+- 💻 Technical degree in IT at CEFET/RJ.
+- 🌍 Fluent in Portuguese and English. Basic at French.
+- 💬 Ask away any questions about my code - I'm here to help!
+
 
 ## Bienvenue!
 
-<ul>
-  <li>Étudiant en génie informatique à USP São Carlos.
-  <li>Membre de le [Fellowship of the Game](https://github.com/fellowshipofthegame)
-  <li>Lycée professionnel en informatique au CEFET/RJ.
-  <li>Parle couramment Portugais et Anglais. Je parle Français débutante.
-  <li> Je réponds à toutes les questions sur mon code
-</ul>
+- 🎓 Étudiant en génie informatique à USP São Carlos.
+- 🎮 Membre de le [Fellowship of the Game](https://github.com/fellowshipofthegame)
+- 💻 Lycée professionnel en informatique au CEFET/RJ.
+- 🌍 Parle couramment Portugais et Anglais. Je parle Français débutante.
+- 💬 Je réponds à toutes les questions sur mon code
+
 
 ### Contatos
 <div>
@@ -47,7 +45,9 @@
   
 ## Aprendendo
   
- [![My Skills](https://skillicons.dev/icons?i=py,html,css,php,c,cpp,java,js,postgres)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=py,html,css,c,cpp,java,postgres)](https://skillicons.dev)
+
+<img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black"> <img src="https://img.shields.io/badge/KNIME-FDD800.svg?style=for-the-badge&logo=KNIME&logoColor=black">
  
  </br>
  
@@ -65,4 +65,4 @@
 
  </br>
  
- ![Contribution2](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ala-r-f&theme=2077)
+ ![Contribution2](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rofranzen&theme=2077)
