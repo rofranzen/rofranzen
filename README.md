@@ -26,6 +26,10 @@
 - 🌍 Parle couramment Portugais et Anglais. Je parle Français débutante.
 - 💬 Je réponds à toutes les questions sur mon code
 
+**Oque eu ando fazendo?**
+- Atualmente estudando Aprendizado de Máquina!
+- Analise de dados e pesquisas para ONGs. Talvez você queira ver meu trabalho com o [Knime](https:github.com/rofranzen/coming-soon). 
+- Automatização de tratamento de dados.
 
 ### Contatos
 <div>
@@ -63,6 +67,7 @@
  
  ![Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=rofranzen&theme=react-dark&custom_title=My%20(awesome)%20commits&hide_border=true&area=true)
 
+  
  </br>
  
  ![Contribution2](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rofranzen&theme=2077)
