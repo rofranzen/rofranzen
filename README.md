@@ -26,10 +26,10 @@
 - 🌍 Parle couramment Portugais et Anglais. Je parle Français débutante.
 - 💬 Je réponds à toutes les questions sur mon code
 
-**Oque eu ando fazendo?**
-- Atualmente estudando Aprendizado de Máquina!
-- Analise de dados e pesquisas para ONGs. Talvez você queira ver meu trabalho com o [Knime](https:github.com/rofranzen/coming-soon). 
-- Automatização de tratamento de dados.
+**What have I been doing?**
+- Studying Machine Learning
+- Data analysis for non-profits. Maybe you want to see my work on [Knime](https:github.com/rofranzen/coming-soon). 
+- Research and technology applications about UDL (Universal Design for Learning)
 
 ### Contatos
 <div>
@@ -47,15 +47,22 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rofranzen&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
   
-## Aprendendo
-  
- [![My Skills](https://skillicons.dev/icons?i=py,html,css,c,cpp,java,postgres)](https://skillicons.dev)
+## Experience with
 
-<img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black"> <img src="https://img.shields.io/badge/KNIME-FDD800.svg?style=for-the-badge&logo=KNIME&logoColor=black">
- 
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black"> <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=for-the-badge&logo=Eclipse-IDE&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"> <img src="https://img.shields.io/badge/RISCV-283272.svg?style=for-the-badge&logo=RISC-V&logoColor=white">
+
+
+<img src="https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/Godot%20Engine-478CBF.svg?style=for-the-badge&logo=Godot-Engine&logoColor=white"> <img src="https://img.shields.io/badge/KNIME-FDD800.svg?style=for-the-badge&logo=KNIME&logoColor=black">
+
+</br>
+
+- Design:
+<img src="https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
+  
+
  </br>
  
- ## Para conhecer melhor
+ ## To know me better (old)
  
 **Python & Auto**
  </br></br>
